@@ -1,0 +1,4 @@
+﻿Ciao come va?
+Tutto bene
+
+[SERVER]: La copia è avvenuta con successo

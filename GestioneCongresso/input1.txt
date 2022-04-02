@@ -1,0 +1,6 @@
+r 1 S1 ugo
+r 1 S1 roberto
+r 1 S2 francesco
+r 5 S2 riccardo
+r 1 S14 giuseppe
+p 1
